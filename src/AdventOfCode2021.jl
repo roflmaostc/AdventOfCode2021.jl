@@ -6,4 +6,5 @@ module AdventOfCode2021
     end
     
     include("Day01.jl")
+    include("Day02.jl")
 end # module
